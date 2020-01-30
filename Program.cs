@@ -10,6 +10,7 @@ namespace GitTestv2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("waaa");
         }
     }
 }
